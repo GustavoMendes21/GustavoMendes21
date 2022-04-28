@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <p>
  🧠 Focado em desenvolver soluções simples para problemas difíceis e aprender com o processo. 
  
- 🌱 Estudando Javascript, ReactJs, TypeScript, NodeJS, Linux, Bancos de dados SQL e NO SQL
+ 🌱 Estudando Javascript, ReactJs, TypeScript, NodeJS, Linux, Bancos de dados SQL e NO SQL.
+ 
+ 🥇 Meu foco atual está em Front End, mas não deixo de estudar sobre Back End e outros conceitos de programação.
    
  💚 Quero aprender cada dia mais, e ajudar pessoas com algo que amo fazer. 
   
