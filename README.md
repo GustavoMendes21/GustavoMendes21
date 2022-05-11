@@ -21,6 +21,8 @@ Here are some ideas to get you started:
  🌱 Estudando Javascript, ReactJs, TypeScript, NodeJS, Linux, Bancos de dados SQL e NO SQL.
  
  🥇 Meu foco atual está em Front End, mas não deixo de estudar sobre Back End e outros conceitos de programação.
+ 
+ 💻 Saiba mais sobre mim [aqui](https://gustavomendes.vercel.app/)
    
  💚 Quero aprender cada dia mais, e ajudar pessoas com algo que amo fazer. 
   
